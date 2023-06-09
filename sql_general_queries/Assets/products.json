@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Ritchie, Daniel and Heaney",
+    "category": "Home",
+    "subcategory": "Gardening"
+  },
+  {
+    "name": "O`Kon and Sons",
+    "category": "Entertainment",
+    "subcategory": "Movie"
+  },
+  {
+    "name": "Dickens, Thompson and Crooks",
+    "category": "Home",
+    "subcategory": "Cooking"
+  },
+  {
+    "name": "Luettgen-Crona",
+    "category": "Electronics",
+    "subcategory": "Camera"
+  },
+  {
+    "name": "Halvorson, Morar and Collins",
+    "category": "Activity",
+    "subcategory": "Biking"
+  },
+  {
+    "name": "Batz and Sons",
+    "category": "Beauty",
+    "subcategory": "Personal"
+  },
+  {
+    "name": "Powlowski, Skiles and Littel",
+    "category": "Beauty",
+    "subcategory": "Skin Care"
+  },
+  {
+    "name": "Ruecker-Schowalter",
+    "category": "Automotive",
+    "subcategory": "Car"
+  },
+  {
+    "name": "Hudson-Nolan",
+    "category": "Electronics",
+    "subcategory": "Camera"
+  },
+  {
+    "name": "Bartell-Nitzsche",
+    "category": "Home",
+    "subcategory": "Kitchen"
+  }
+]

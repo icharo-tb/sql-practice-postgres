@@ -1,0 +1,7002 @@
+{"order_details": [
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 422,
+            "list_price": 3425.32,
+            "revenue": 86233.72
+        },
+        "order_date": "05-31-2019"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 109,
+            "list_price": 350.66,
+            "revenue": 16444.51
+        },
+        "order_date": "08-04-2022"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 276,
+            "list_price": 504.71,
+            "revenue": 193755.17
+        },
+        "order_date": "05-12-2020"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 432,
+            "list_price": 2406.31,
+            "revenue": 51745.99
+        },
+        "order_date": "11-19-2019"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 54,
+            "list_price": 3963.32,
+            "revenue": 208011.84
+        },
+        "order_date": "05-03-2018"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 197,
+            "list_price": 584.33,
+            "revenue": 211242.79
+        },
+        "order_date": "04-15-2019"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 413,
+            "list_price": 2587.26,
+            "revenue": 130223.02
+        },
+        "order_date": "02-03-2020"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 46,
+            "list_price": 3011.13,
+            "revenue": 168742.19
+        },
+        "order_date": "11-20-2021"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 74,
+            "list_price": 555.93,
+            "revenue": 103340.29
+        },
+        "order_date": "09-03-2020"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 377,
+            "list_price": 2216.05,
+            "revenue": 207617.24
+        },
+        "order_date": "12-10-2018"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 248,
+            "list_price": 3590.06,
+            "revenue": 158902.49
+        },
+        "order_date": "10-23-2021"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 464,
+            "list_price": 4423.05,
+            "revenue": 170053.89
+        },
+        "order_date": "04-15-2022"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 110,
+            "list_price": 2376.08,
+            "revenue": 199552.75
+        },
+        "order_date": "09-24-2019"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 415,
+            "list_price": 3045.73,
+            "revenue": 74771.92
+        },
+        "order_date": "10-24-2021"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 30,
+            "list_price": 468.05,
+            "revenue": 140005.87
+        },
+        "order_date": "05-10-2019"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 94,
+            "list_price": 2259.23,
+            "revenue": 167447.92
+        },
+        "order_date": "02-26-2020"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 248,
+            "list_price": 1314.07,
+            "revenue": 152741.74
+        },
+        "order_date": "05-02-2018"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 69,
+            "list_price": 4211.21,
+            "revenue": 171567.85
+        },
+        "order_date": "12-03-2019"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 8,
+            "list_price": 1864.51,
+            "revenue": 132423.39
+        },
+        "order_date": "09-24-2018"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 3,
+            "list_price": 3877.03,
+            "revenue": 179727.7
+        },
+        "order_date": "03-13-2017"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 344,
+            "list_price": 3710.63,
+            "revenue": 23972.97
+        },
+        "order_date": "12-24-2019"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 289,
+            "list_price": 1552.76,
+            "revenue": 127563.27
+        },
+        "order_date": "09-02-2020"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 102,
+            "list_price": 1123.2,
+            "revenue": 100754.08
+        },
+        "order_date": "08-14-2020"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 186,
+            "list_price": 3531.71,
+            "revenue": 215715.93
+        },
+        "order_date": "10-02-2019"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 156,
+            "list_price": 2933.72,
+            "revenue": 136529.76
+        },
+        "order_date": "04-09-2022"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 4,
+            "list_price": 1287.73,
+            "revenue": 56703.12
+        },
+        "order_date": "02-17-2017"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 15,
+            "list_price": 1665.69,
+            "revenue": 63582.27
+        },
+        "order_date": "03-08-2021"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 166,
+            "list_price": 140.85,
+            "revenue": 82482.0
+        },
+        "order_date": "05-31-2019"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 47,
+            "list_price": 1632.54,
+            "revenue": 91072.12
+        },
+        "order_date": "03-31-2017"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 443,
+            "list_price": 40.06,
+            "revenue": 62140.83
+        },
+        "order_date": "12-27-2018"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 182,
+            "list_price": 1341.69,
+            "revenue": 59444.47
+        },
+        "order_date": "09-20-2017"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 143,
+            "list_price": 2968.48,
+            "revenue": 109675.13
+        },
+        "order_date": "02-21-2020"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 173,
+            "list_price": 1263.73,
+            "revenue": 176252.19
+        },
+        "order_date": "07-08-2017"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 205,
+            "list_price": 4335.42,
+            "revenue": 91418.63
+        },
+        "order_date": "10-28-2021"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 405,
+            "list_price": 3584.19,
+            "revenue": 150906.66
+        },
+        "order_date": "09-10-2020"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 478,
+            "list_price": 1504.88,
+            "revenue": 78463.57
+        },
+        "order_date": "02-09-2017"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 449,
+            "list_price": 2578.03,
+            "revenue": 43250.2
+        },
+        "order_date": "08-31-2018"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 362,
+            "list_price": 376.29,
+            "revenue": 216577.92
+        },
+        "order_date": "08-20-2022"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 186,
+            "list_price": 3976.15,
+            "revenue": 109896.53
+        },
+        "order_date": "05-16-2017"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 237,
+            "list_price": 2611.1,
+            "revenue": 121453.97
+        },
+        "order_date": "05-13-2021"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 433,
+            "list_price": 927.12,
+            "revenue": 197153.63
+        },
+        "order_date": "10-24-2019"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 354,
+            "list_price": 3843.86,
+            "revenue": 212869.94
+        },
+        "order_date": "11-15-2019"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 64,
+            "list_price": 4394.99,
+            "revenue": 79676.1
+        },
+        "order_date": "12-12-2017"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 367,
+            "list_price": 1979.83,
+            "revenue": 115945.3
+        },
+        "order_date": "12-26-2021"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 165,
+            "list_price": 3550.73,
+            "revenue": 131117.7
+        },
+        "order_date": "07-19-2018"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 481,
+            "list_price": 3535.88,
+            "revenue": 134392.67
+        },
+        "order_date": "10-19-2019"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 371,
+            "list_price": 3190.96,
+            "revenue": 87832.1
+        },
+        "order_date": "07-27-2022"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 126,
+            "list_price": 567.44,
+            "revenue": 132037.7
+        },
+        "order_date": "11-27-2021"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 64,
+            "list_price": 1271.74,
+            "revenue": 125873.98
+        },
+        "order_date": "07-13-2019"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 62,
+            "list_price": 4294.86,
+            "revenue": 94457.27
+        },
+        "order_date": "09-23-2017"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 189,
+            "list_price": 3569.9,
+            "revenue": 14483.96
+        },
+        "order_date": "04-20-2021"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 148,
+            "list_price": 2974.55,
+            "revenue": 108850.29
+        },
+        "order_date": "07-01-2017"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 469,
+            "list_price": 3858.12,
+            "revenue": 218244.48
+        },
+        "order_date": "01-31-2020"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 166,
+            "list_price": 607.15,
+            "revenue": 139543.72
+        },
+        "order_date": "05-07-2019"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 201,
+            "list_price": 179.62,
+            "revenue": 175528.99
+        },
+        "order_date": "11-11-2017"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 466,
+            "list_price": 4399.48,
+            "revenue": 172538.96
+        },
+        "order_date": "12-19-2019"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 336,
+            "list_price": 4402.69,
+            "revenue": 49043.24
+        },
+        "order_date": "06-27-2019"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 274,
+            "list_price": 2531.01,
+            "revenue": 87661.88
+        },
+        "order_date": "08-13-2021"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 305,
+            "list_price": 1411.56,
+            "revenue": 31291.16
+        },
+        "order_date": "05-26-2018"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 212,
+            "list_price": 4207.1,
+            "revenue": 70055.97
+        },
+        "order_date": "12-19-2020"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 183,
+            "list_price": 3339.33,
+            "revenue": 156021.53
+        },
+        "order_date": "07-16-2020"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 442,
+            "list_price": 2066.39,
+            "revenue": 20625.9
+        },
+        "order_date": "01-23-2018"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 362,
+            "list_price": 841.81,
+            "revenue": 201016.95
+        },
+        "order_date": "03-22-2022"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 363,
+            "list_price": 3204.88,
+            "revenue": 212318.82
+        },
+        "order_date": "07-06-2020"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 368,
+            "list_price": 2543.61,
+            "revenue": 80488.08
+        },
+        "order_date": "03-31-2021"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 106,
+            "list_price": 653.07,
+            "revenue": 143322.06
+        },
+        "order_date": "12-22-2017"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 10,
+            "list_price": 43.26,
+            "revenue": 194823.61
+        },
+        "order_date": "12-27-2020"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 67,
+            "list_price": 191.72,
+            "revenue": 219907.21
+        },
+        "order_date": "01-16-2019"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 46,
+            "list_price": 2592.3,
+            "revenue": 171691.33
+        },
+        "order_date": "12-06-2020"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 349,
+            "list_price": 303.87,
+            "revenue": 15154.09
+        },
+        "order_date": "08-12-2019"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 273,
+            "list_price": 3650.59,
+            "revenue": 75159.76
+        },
+        "order_date": "08-09-2019"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 159,
+            "list_price": 2299.95,
+            "revenue": 46241.78
+        },
+        "order_date": "01-17-2019"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 311,
+            "list_price": 1115.74,
+            "revenue": 105152.27
+        },
+        "order_date": "06-19-2021"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 365,
+            "list_price": 3952.99,
+            "revenue": 91581.39
+        },
+        "order_date": "03-22-2021"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 121,
+            "list_price": 114.22,
+            "revenue": 33935.59
+        },
+        "order_date": "04-12-2021"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 204,
+            "list_price": 760.87,
+            "revenue": 168534.92
+        },
+        "order_date": "08-27-2018"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 291,
+            "list_price": 3455.01,
+            "revenue": 163708.49
+        },
+        "order_date": "01-07-2022"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 12,
+            "list_price": 1.85,
+            "revenue": 58359.7
+        },
+        "order_date": "06-10-2019"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 425,
+            "list_price": 1182.27,
+            "revenue": 134667.17
+        },
+        "order_date": "07-06-2019"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 115,
+            "list_price": 916.46,
+            "revenue": 146664.63
+        },
+        "order_date": "05-27-2018"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 319,
+            "list_price": 934.12,
+            "revenue": 138206.69
+        },
+        "order_date": "09-27-2020"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 13,
+            "list_price": 4426.33,
+            "revenue": 82269.01
+        },
+        "order_date": "12-30-2021"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 130,
+            "list_price": 1160.56,
+            "revenue": 145936.22
+        },
+        "order_date": "12-25-2017"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 218,
+            "list_price": 3934.14,
+            "revenue": 56094.82
+        },
+        "order_date": "08-03-2018"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 310,
+            "list_price": 324.05,
+            "revenue": 111174.3
+        },
+        "order_date": "03-07-2017"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 358,
+            "list_price": 746.17,
+            "revenue": 170474.91
+        },
+        "order_date": "05-29-2019"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 282,
+            "list_price": 498.87,
+            "revenue": 8095.28
+        },
+        "order_date": "02-01-2018"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 326,
+            "list_price": 161.48,
+            "revenue": 36930.55
+        },
+        "order_date": "04-22-2021"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 233,
+            "list_price": 1311.64,
+            "revenue": 90356.45
+        },
+        "order_date": "08-18-2022"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 362,
+            "list_price": 4144.57,
+            "revenue": 82951.13
+        },
+        "order_date": "08-02-2017"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 494,
+            "list_price": 2886.65,
+            "revenue": 172179.66
+        },
+        "order_date": "10-19-2021"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 346,
+            "list_price": 1430.66,
+            "revenue": 168222.91
+        },
+        "order_date": "06-18-2022"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 104,
+            "list_price": 3089.75,
+            "revenue": 181039.43
+        },
+        "order_date": "05-11-2018"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 414,
+            "list_price": 1632.77,
+            "revenue": 10985.97
+        },
+        "order_date": "08-07-2021"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 316,
+            "list_price": 1529.14,
+            "revenue": 188893.17
+        },
+        "order_date": "05-31-2018"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 207,
+            "list_price": 598.86,
+            "revenue": 11927.05
+        },
+        "order_date": "06-19-2022"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 267,
+            "list_price": 3906.44,
+            "revenue": 169456.41
+        },
+        "order_date": "08-10-2018"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 225,
+            "list_price": 2793.93,
+            "revenue": 113655.57
+        },
+        "order_date": "11-19-2021"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 28,
+            "list_price": 1619.67,
+            "revenue": 52000.99
+        },
+        "order_date": "09-10-2020"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 54,
+            "list_price": 1270.46,
+            "revenue": 166358.51
+        },
+        "order_date": "05-08-2017"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 235,
+            "list_price": 3542.95,
+            "revenue": 137930.82
+        },
+        "order_date": "10-13-2018"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 100,
+            "list_price": 2886.28,
+            "revenue": 152964.47
+        },
+        "order_date": "09-25-2018"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 343,
+            "list_price": 4014.59,
+            "revenue": 54323.95
+        },
+        "order_date": "06-25-2022"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 99,
+            "list_price": 3770.55,
+            "revenue": 162025.84
+        },
+        "order_date": "11-17-2020"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 232,
+            "list_price": 3786.09,
+            "revenue": 105104.72
+        },
+        "order_date": "11-23-2018"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 413,
+            "list_price": 4299.55,
+            "revenue": 167808.42
+        },
+        "order_date": "05-02-2022"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 22,
+            "list_price": 3004.48,
+            "revenue": 185019.33
+        },
+        "order_date": "06-13-2019"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 394,
+            "list_price": 3830.0,
+            "revenue": 55839.49
+        },
+        "order_date": "11-04-2017"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 429,
+            "list_price": 1563.94,
+            "revenue": 161473.77
+        },
+        "order_date": "06-23-2021"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 239,
+            "list_price": 4457.6,
+            "revenue": 152331.31
+        },
+        "order_date": "04-16-2020"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 88,
+            "list_price": 294.11,
+            "revenue": 152210.19
+        },
+        "order_date": "11-06-2018"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 107,
+            "list_price": 3445.66,
+            "revenue": 76732.4
+        },
+        "order_date": "04-20-2020"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 23,
+            "list_price": 3555.67,
+            "revenue": 178042.64
+        },
+        "order_date": "08-24-2021"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 186,
+            "list_price": 1639.36,
+            "revenue": 105941.51
+        },
+        "order_date": "10-09-2017"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 447,
+            "list_price": 3543.97,
+            "revenue": 176439.37
+        },
+        "order_date": "10-23-2021"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 180,
+            "list_price": 2539.07,
+            "revenue": 51639.89
+        },
+        "order_date": "06-08-2019"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 456,
+            "list_price": 1100.64,
+            "revenue": 142563.39
+        },
+        "order_date": "09-20-2020"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 35,
+            "list_price": 1815.79,
+            "revenue": 115214.75
+        },
+        "order_date": "11-09-2019"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 395,
+            "list_price": 3733.7,
+            "revenue": 164240.0
+        },
+        "order_date": "03-18-2022"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 381,
+            "list_price": 1998.81,
+            "revenue": 119180.09
+        },
+        "order_date": "04-17-2017"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 243,
+            "list_price": 363.93,
+            "revenue": 116329.92
+        },
+        "order_date": "08-13-2019"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 292,
+            "list_price": 1686.84,
+            "revenue": 212366.29
+        },
+        "order_date": "06-06-2020"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 173,
+            "list_price": 120.26,
+            "revenue": 143395.24
+        },
+        "order_date": "08-24-2021"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 147,
+            "list_price": 3371.48,
+            "revenue": 14526.74
+        },
+        "order_date": "08-25-2017"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 286,
+            "list_price": 4192.79,
+            "revenue": 116717.35
+        },
+        "order_date": "04-17-2020"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 489,
+            "list_price": 1283.38,
+            "revenue": 181311.2
+        },
+        "order_date": "04-24-2021"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 416,
+            "list_price": 3730.04,
+            "revenue": 153961.68
+        },
+        "order_date": "02-25-2019"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 65,
+            "list_price": 3966.29,
+            "revenue": 117576.55
+        },
+        "order_date": "11-01-2018"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 264,
+            "list_price": 3161.15,
+            "revenue": 42005.23
+        },
+        "order_date": "11-19-2017"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 423,
+            "list_price": 128.46,
+            "revenue": 152125.19
+        },
+        "order_date": "02-12-2019"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 330,
+            "list_price": 4123.73,
+            "revenue": 84256.09
+        },
+        "order_date": "03-04-2021"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 294,
+            "list_price": 3201.89,
+            "revenue": 194091.78
+        },
+        "order_date": "10-08-2021"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 217,
+            "list_price": 4151.99,
+            "revenue": 53308.56
+        },
+        "order_date": "06-28-2022"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 330,
+            "list_price": 1465.59,
+            "revenue": 83233.6
+        },
+        "order_date": "09-20-2021"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 292,
+            "list_price": 2749.56,
+            "revenue": 133187.13
+        },
+        "order_date": "06-05-2020"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 345,
+            "list_price": 4071.6,
+            "revenue": 150497.91
+        },
+        "order_date": "02-21-2018"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 244,
+            "list_price": 4305.29,
+            "revenue": 58586.08
+        },
+        "order_date": "09-03-2020"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 216,
+            "list_price": 190.04,
+            "revenue": 32836.54
+        },
+        "order_date": "04-10-2017"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 398,
+            "list_price": 3847.32,
+            "revenue": 115199.94
+        },
+        "order_date": "01-09-2022"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 58,
+            "list_price": 804.21,
+            "revenue": 90926.39
+        },
+        "order_date": "04-18-2017"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 80,
+            "list_price": 3504.24,
+            "revenue": 23207.47
+        },
+        "order_date": "09-19-2018"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 3,
+            "list_price": 546.15,
+            "revenue": 195889.08
+        },
+        "order_date": "05-19-2020"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 78,
+            "list_price": 1065.05,
+            "revenue": 6713.42
+        },
+        "order_date": "01-13-2021"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 146,
+            "list_price": 4134.31,
+            "revenue": 92585.49
+        },
+        "order_date": "04-10-2017"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 175,
+            "list_price": 2450.2,
+            "revenue": 151396.69
+        },
+        "order_date": "05-11-2019"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 374,
+            "list_price": 386.57,
+            "revenue": 167240.7
+        },
+        "order_date": "10-31-2020"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 276,
+            "list_price": 4214.21,
+            "revenue": 196156.85
+        },
+        "order_date": "10-26-2019"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 450,
+            "list_price": 3834.94,
+            "revenue": 20468.48
+        },
+        "order_date": "02-26-2020"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 161,
+            "list_price": 1960.42,
+            "revenue": 140707.46
+        },
+        "order_date": "07-27-2020"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 1,
+            "list_price": 594.56,
+            "revenue": 76007.08
+        },
+        "order_date": "07-22-2020"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 288,
+            "list_price": 4135.36,
+            "revenue": 57476.87
+        },
+        "order_date": "09-06-2022"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 322,
+            "list_price": 3233.72,
+            "revenue": 114387.51
+        },
+        "order_date": "02-06-2021"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 439,
+            "list_price": 4173.91,
+            "revenue": 189660.4
+        },
+        "order_date": "03-28-2017"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 224,
+            "list_price": 3665.46,
+            "revenue": 192877.0
+        },
+        "order_date": "08-17-2019"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 483,
+            "list_price": 2047.38,
+            "revenue": 153862.31
+        },
+        "order_date": "06-29-2022"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 91,
+            "list_price": 3070.19,
+            "revenue": 157180.27
+        },
+        "order_date": "10-07-2022"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 167,
+            "list_price": 391.43,
+            "revenue": 159099.77
+        },
+        "order_date": "12-02-2018"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 300,
+            "list_price": 3302.66,
+            "revenue": 209719.34
+        },
+        "order_date": "06-03-2020"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 281,
+            "list_price": 2766.58,
+            "revenue": 212805.17
+        },
+        "order_date": "03-20-2017"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 63,
+            "list_price": 420.76,
+            "revenue": 62644.79
+        },
+        "order_date": "09-04-2022"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 214,
+            "list_price": 2920.48,
+            "revenue": 218660.91
+        },
+        "order_date": "08-08-2022"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 366,
+            "list_price": 3534.22,
+            "revenue": 68609.67
+        },
+        "order_date": "10-14-2017"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 294,
+            "list_price": 1225.27,
+            "revenue": 30043.88
+        },
+        "order_date": "09-29-2022"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 267,
+            "list_price": 2993.71,
+            "revenue": 119470.37
+        },
+        "order_date": "08-29-2019"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 298,
+            "list_price": 1728.75,
+            "revenue": 213784.28
+        },
+        "order_date": "03-19-2021"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 99,
+            "list_price": 607.98,
+            "revenue": 91926.53
+        },
+        "order_date": "10-12-2021"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 4,
+            "list_price": 1284.22,
+            "revenue": 47705.67
+        },
+        "order_date": "06-15-2022"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 365,
+            "list_price": 3566.81,
+            "revenue": 79609.3
+        },
+        "order_date": "07-04-2019"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 22,
+            "list_price": 689.86,
+            "revenue": 159227.06
+        },
+        "order_date": "12-17-2019"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 146,
+            "list_price": 455.31,
+            "revenue": 181007.28
+        },
+        "order_date": "01-07-2018"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 35,
+            "list_price": 681.47,
+            "revenue": 174232.6
+        },
+        "order_date": "06-16-2017"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 143,
+            "list_price": 3195.07,
+            "revenue": 166989.73
+        },
+        "order_date": "01-25-2018"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 200,
+            "list_price": 761.91,
+            "revenue": 36702.88
+        },
+        "order_date": "01-25-2019"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 318,
+            "list_price": 2737.06,
+            "revenue": 22464.42
+        },
+        "order_date": "01-03-2020"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 24,
+            "list_price": 2452.84,
+            "revenue": 44211.83
+        },
+        "order_date": "11-08-2017"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 491,
+            "list_price": 2053.81,
+            "revenue": 59776.2
+        },
+        "order_date": "09-04-2019"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 354,
+            "list_price": 2121.88,
+            "revenue": 108662.27
+        },
+        "order_date": "06-15-2017"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 431,
+            "list_price": 2005.5,
+            "revenue": 212059.69
+        },
+        "order_date": "11-29-2018"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 398,
+            "list_price": 118.21,
+            "revenue": 89162.72
+        },
+        "order_date": "05-19-2022"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 101,
+            "list_price": 2455.66,
+            "revenue": 111949.53
+        },
+        "order_date": "09-12-2017"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 38,
+            "list_price": 3905.27,
+            "revenue": 93041.44
+        },
+        "order_date": "10-20-2019"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 495,
+            "list_price": 3387.66,
+            "revenue": 200482.25
+        },
+        "order_date": "12-23-2019"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 241,
+            "list_price": 1245.37,
+            "revenue": 14135.55
+        },
+        "order_date": "07-30-2021"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 207,
+            "list_price": 2380.24,
+            "revenue": 79143.72
+        },
+        "order_date": "05-11-2020"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 45,
+            "list_price": 650.88,
+            "revenue": 160254.61
+        },
+        "order_date": "12-28-2021"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 295,
+            "list_price": 249.96,
+            "revenue": 206684.9
+        },
+        "order_date": "10-26-2020"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 404,
+            "list_price": 3389.97,
+            "revenue": 30676.27
+        },
+        "order_date": "09-21-2017"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 279,
+            "list_price": 796.37,
+            "revenue": 14486.48
+        },
+        "order_date": "04-06-2017"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 447,
+            "list_price": 3216.13,
+            "revenue": 164585.13
+        },
+        "order_date": "02-27-2022"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 201,
+            "list_price": 3315.51,
+            "revenue": 109780.18
+        },
+        "order_date": "01-23-2021"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 263,
+            "list_price": 4154.4,
+            "revenue": 177158.14
+        },
+        "order_date": "04-25-2020"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 178,
+            "list_price": 2243.02,
+            "revenue": 90785.01
+        },
+        "order_date": "03-28-2018"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 283,
+            "list_price": 2790.83,
+            "revenue": 100120.98
+        },
+        "order_date": "02-26-2017"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 98,
+            "list_price": 4317.98,
+            "revenue": 163635.93
+        },
+        "order_date": "10-11-2022"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 99,
+            "list_price": 4398.75,
+            "revenue": 99401.86
+        },
+        "order_date": "07-11-2019"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 215,
+            "list_price": 979.99,
+            "revenue": 62901.02
+        },
+        "order_date": "04-29-2019"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 425,
+            "list_price": 2959.7,
+            "revenue": 58.27
+        },
+        "order_date": "11-04-2019"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 284,
+            "list_price": 1556.28,
+            "revenue": 89923.17
+        },
+        "order_date": "08-22-2017"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 452,
+            "list_price": 3993.91,
+            "revenue": 116147.32
+        },
+        "order_date": "10-02-2022"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 48,
+            "list_price": 1064.64,
+            "revenue": 97228.13
+        },
+        "order_date": "03-01-2021"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 374,
+            "list_price": 210.63,
+            "revenue": 143273.7
+        },
+        "order_date": "03-11-2018"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 371,
+            "list_price": 1544.73,
+            "revenue": 26568.62
+        },
+        "order_date": "09-09-2019"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 181,
+            "list_price": 3082.96,
+            "revenue": 184509.76
+        },
+        "order_date": "10-06-2017"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 99,
+            "list_price": 4408.43,
+            "revenue": 25117.72
+        },
+        "order_date": "07-10-2022"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 210,
+            "list_price": 1865.77,
+            "revenue": 63414.15
+        },
+        "order_date": "01-20-2021"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 366,
+            "list_price": 4340.21,
+            "revenue": 126950.7
+        },
+        "order_date": "07-21-2017"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 4,
+            "list_price": 160.29,
+            "revenue": 60096.63
+        },
+        "order_date": "10-11-2019"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 6,
+            "list_price": 1168.6,
+            "revenue": 90906.17
+        },
+        "order_date": "10-13-2020"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 289,
+            "list_price": 2583.92,
+            "revenue": 148515.02
+        },
+        "order_date": "10-24-2019"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 175,
+            "list_price": 1456.28,
+            "revenue": 76893.02
+        },
+        "order_date": "03-24-2019"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 125,
+            "list_price": 2985.41,
+            "revenue": 164612.48
+        },
+        "order_date": "09-24-2019"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 254,
+            "list_price": 3396.05,
+            "revenue": 208900.06
+        },
+        "order_date": "04-12-2022"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 308,
+            "list_price": 3309.89,
+            "revenue": 62435.01
+        },
+        "order_date": "04-07-2021"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 76,
+            "list_price": 1789.86,
+            "revenue": 19151.18
+        },
+        "order_date": "10-14-2020"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 146,
+            "list_price": 563.75,
+            "revenue": 47000.81
+        },
+        "order_date": "09-17-2018"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 492,
+            "list_price": 2250.88,
+            "revenue": 39105.66
+        },
+        "order_date": "09-27-2022"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 175,
+            "list_price": 417.66,
+            "revenue": 96882.48
+        },
+        "order_date": "09-08-2017"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 184,
+            "list_price": 1095.0,
+            "revenue": 4180.52
+        },
+        "order_date": "02-09-2022"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 84,
+            "list_price": 1095.92,
+            "revenue": 166320.17
+        },
+        "order_date": "08-21-2018"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 47,
+            "list_price": 4267.52,
+            "revenue": 186770.6
+        },
+        "order_date": "04-19-2021"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 337,
+            "list_price": 2468.13,
+            "revenue": 163149.74
+        },
+        "order_date": "05-22-2019"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 240,
+            "list_price": 1752.5,
+            "revenue": 183431.92
+        },
+        "order_date": "10-30-2021"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 14,
+            "list_price": 814.41,
+            "revenue": 76947.33
+        },
+        "order_date": "03-27-2022"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 302,
+            "list_price": 1582.41,
+            "revenue": 25497.96
+        },
+        "order_date": "05-28-2020"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 359,
+            "list_price": 2843.05,
+            "revenue": 758.46
+        },
+        "order_date": "02-26-2020"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 140,
+            "list_price": 1387.49,
+            "revenue": 204528.57
+        },
+        "order_date": "04-13-2018"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 395,
+            "list_price": 1103.79,
+            "revenue": 125393.79
+        },
+        "order_date": "05-15-2017"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 218,
+            "list_price": 394.16,
+            "revenue": 63964.81
+        },
+        "order_date": "03-23-2019"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 466,
+            "list_price": 1436.71,
+            "revenue": 208250.91
+        },
+        "order_date": "12-02-2020"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 161,
+            "list_price": 4191.77,
+            "revenue": 90242.84
+        },
+        "order_date": "12-07-2017"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 6,
+            "list_price": 1489.62,
+            "revenue": 132799.66
+        },
+        "order_date": "05-31-2019"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 135,
+            "list_price": 1147.69,
+            "revenue": 39847.78
+        },
+        "order_date": "06-27-2022"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 393,
+            "list_price": 3185.41,
+            "revenue": 111516.11
+        },
+        "order_date": "12-24-2021"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 220,
+            "list_price": 3716.9,
+            "revenue": 33895.62
+        },
+        "order_date": "06-23-2017"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 62,
+            "list_price": 1033.88,
+            "revenue": 139949.84
+        },
+        "order_date": "11-16-2019"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 243,
+            "list_price": 74.48,
+            "revenue": 52429.04
+        },
+        "order_date": "12-17-2017"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 321,
+            "list_price": 3740.08,
+            "revenue": 117334.92
+        },
+        "order_date": "08-12-2018"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 239,
+            "list_price": 179.86,
+            "revenue": 55943.77
+        },
+        "order_date": "12-20-2017"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 464,
+            "list_price": 3990.2,
+            "revenue": 176149.46
+        },
+        "order_date": "09-09-2020"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 455,
+            "list_price": 1830.49,
+            "revenue": 181570.19
+        },
+        "order_date": "12-03-2017"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 422,
+            "list_price": 25.09,
+            "revenue": 133226.21
+        },
+        "order_date": "10-23-2017"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 86,
+            "list_price": 2582.99,
+            "revenue": 213901.79
+        },
+        "order_date": "07-10-2020"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 444,
+            "list_price": 4430.94,
+            "revenue": 31284.16
+        },
+        "order_date": "07-19-2017"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 284,
+            "list_price": 1604.34,
+            "revenue": 212480.99
+        },
+        "order_date": "03-10-2022"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 233,
+            "list_price": 2690.71,
+            "revenue": 86642.56
+        },
+        "order_date": "11-03-2021"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 323,
+            "list_price": 187.38,
+            "revenue": 87107.27
+        },
+        "order_date": "01-24-2021"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 104,
+            "list_price": 3530.55,
+            "revenue": 83873.5
+        },
+        "order_date": "02-24-2022"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 39,
+            "list_price": 1603.53,
+            "revenue": 133335.27
+        },
+        "order_date": "05-06-2018"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 241,
+            "list_price": 626.12,
+            "revenue": 27858.97
+        },
+        "order_date": "02-04-2020"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 306,
+            "list_price": 500.17,
+            "revenue": 1891.91
+        },
+        "order_date": "10-09-2022"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 313,
+            "list_price": 4190.44,
+            "revenue": 143870.05
+        },
+        "order_date": "09-14-2020"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 125,
+            "list_price": 431.13,
+            "revenue": 156385.73
+        },
+        "order_date": "04-22-2021"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 430,
+            "list_price": 3732.67,
+            "revenue": 70640.62
+        },
+        "order_date": "01-02-2020"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 228,
+            "list_price": 2955.3,
+            "revenue": 173440.35
+        },
+        "order_date": "10-26-2020"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 202,
+            "list_price": 669.55,
+            "revenue": 146242.61
+        },
+        "order_date": "09-15-2022"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 147,
+            "list_price": 2023.01,
+            "revenue": 98423.07
+        },
+        "order_date": "06-04-2017"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 99,
+            "list_price": 260.07,
+            "revenue": 210990.58
+        },
+        "order_date": "05-01-2020"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 184,
+            "list_price": 856.14,
+            "revenue": 191304.57
+        },
+        "order_date": "07-27-2019"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 45,
+            "list_price": 3500.44,
+            "revenue": 44853.46
+        },
+        "order_date": "03-23-2017"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 206,
+            "list_price": 4128.7,
+            "revenue": 215423.48
+        },
+        "order_date": "05-06-2022"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 322,
+            "list_price": 3965.74,
+            "revenue": 110391.47
+        },
+        "order_date": "07-28-2022"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 386,
+            "list_price": 2.16,
+            "revenue": 132072.29
+        },
+        "order_date": "05-26-2017"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 452,
+            "list_price": 2158.94,
+            "revenue": 146929.27
+        },
+        "order_date": "06-03-2017"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 481,
+            "list_price": 4415.61,
+            "revenue": 151907.18
+        },
+        "order_date": "11-10-2019"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 57,
+            "list_price": 1180.75,
+            "revenue": 15392.01
+        },
+        "order_date": "02-04-2021"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 401,
+            "list_price": 2063.27,
+            "revenue": 129274.64
+        },
+        "order_date": "03-31-2020"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 475,
+            "list_price": 3841.63,
+            "revenue": 80776.36
+        },
+        "order_date": "01-17-2019"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 359,
+            "list_price": 3814.23,
+            "revenue": 167090.13
+        },
+        "order_date": "02-19-2019"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 120,
+            "list_price": 159.41,
+            "revenue": 15188.52
+        },
+        "order_date": "11-03-2021"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 89,
+            "list_price": 848.46,
+            "revenue": 178451.66
+        },
+        "order_date": "10-01-2017"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 431,
+            "list_price": 3834.25,
+            "revenue": 138220.4
+        },
+        "order_date": "05-10-2018"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 481,
+            "list_price": 3099.53,
+            "revenue": 71778.47
+        },
+        "order_date": "10-01-2022"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 482,
+            "list_price": 1047.04,
+            "revenue": 109692.38
+        },
+        "order_date": "03-23-2019"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 335,
+            "list_price": 797.67,
+            "revenue": 159183.28
+        },
+        "order_date": "11-11-2018"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 490,
+            "list_price": 1311.28,
+            "revenue": 66770.47
+        },
+        "order_date": "03-04-2018"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 199,
+            "list_price": 687.38,
+            "revenue": 95924.8
+        },
+        "order_date": "08-04-2020"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 219,
+            "list_price": 2457.46,
+            "revenue": 26460.21
+        },
+        "order_date": "07-24-2022"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 463,
+            "list_price": 1205.06,
+            "revenue": 143218.01
+        },
+        "order_date": "10-25-2021"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 224,
+            "list_price": 218.08,
+            "revenue": 51660.72
+        },
+        "order_date": "07-08-2019"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 185,
+            "list_price": 1769.63,
+            "revenue": 41350.19
+        },
+        "order_date": "04-27-2022"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 99,
+            "list_price": 527.34,
+            "revenue": 165769.29
+        },
+        "order_date": "07-21-2022"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 486,
+            "list_price": 3936.23,
+            "revenue": 118333.45
+        },
+        "order_date": "12-12-2020"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 294,
+            "list_price": 670.94,
+            "revenue": 193815.91
+        },
+        "order_date": "07-13-2021"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 65,
+            "list_price": 895.91,
+            "revenue": 147084.74
+        },
+        "order_date": "06-18-2019"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 263,
+            "list_price": 370.2,
+            "revenue": 15237.41
+        },
+        "order_date": "10-01-2021"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 179,
+            "list_price": 2782.24,
+            "revenue": 2076.72
+        },
+        "order_date": "04-14-2018"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 250,
+            "list_price": 2080.02,
+            "revenue": 137890.92
+        },
+        "order_date": "02-02-2022"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 345,
+            "list_price": 3184.14,
+            "revenue": 87003.06
+        },
+        "order_date": "02-08-2018"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 277,
+            "list_price": 3581.48,
+            "revenue": 125331.06
+        },
+        "order_date": "08-19-2020"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 476,
+            "list_price": 334.58,
+            "revenue": 12118.18
+        },
+        "order_date": "08-19-2018"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 305,
+            "list_price": 810.95,
+            "revenue": 22488.71
+        },
+        "order_date": "10-22-2020"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 289,
+            "list_price": 3199.9,
+            "revenue": 121609.51
+        },
+        "order_date": "08-03-2022"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 181,
+            "list_price": 1555.31,
+            "revenue": 69666.4
+        },
+        "order_date": "06-11-2019"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 114,
+            "list_price": 76.5,
+            "revenue": 198883.08
+        },
+        "order_date": "02-26-2019"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 287,
+            "list_price": 2072.06,
+            "revenue": 157901.69
+        },
+        "order_date": "02-19-2021"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 72,
+            "list_price": 4243.91,
+            "revenue": 153598.59
+        },
+        "order_date": "04-30-2019"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 452,
+            "list_price": 3956.69,
+            "revenue": 35037.92
+        },
+        "order_date": "09-29-2017"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 309,
+            "list_price": 8.12,
+            "revenue": 154260.6
+        },
+        "order_date": "11-05-2017"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 408,
+            "list_price": 4454.55,
+            "revenue": 10371.28
+        },
+        "order_date": "10-28-2020"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 42,
+            "list_price": 2563.39,
+            "revenue": 101356.91
+        },
+        "order_date": "10-02-2018"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 431,
+            "list_price": 1849.05,
+            "revenue": 211268.58
+        },
+        "order_date": "04-10-2020"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 232,
+            "list_price": 691.34,
+            "revenue": 14084.89
+        },
+        "order_date": "09-17-2019"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 479,
+            "list_price": 3744.31,
+            "revenue": 112978.57
+        },
+        "order_date": "09-16-2019"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 216,
+            "list_price": 4161.96,
+            "revenue": 24817.41
+        },
+        "order_date": "08-25-2017"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 300,
+            "list_price": 89.89,
+            "revenue": 211348.23
+        },
+        "order_date": "04-07-2018"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 41,
+            "list_price": 2409.38,
+            "revenue": 71767.06
+        },
+        "order_date": "10-06-2019"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 345,
+            "list_price": 1902.51,
+            "revenue": 160543.38
+        },
+        "order_date": "08-02-2020"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 115,
+            "list_price": 2347.62,
+            "revenue": 162770.58
+        },
+        "order_date": "11-09-2018"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 375,
+            "list_price": 2307.03,
+            "revenue": 42178.06
+        },
+        "order_date": "12-22-2017"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 212,
+            "list_price": 2923.89,
+            "revenue": 214250.48
+        },
+        "order_date": "12-20-2020"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 222,
+            "list_price": 3032.56,
+            "revenue": 55098.36
+        },
+        "order_date": "04-30-2020"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 119,
+            "list_price": 2041.4,
+            "revenue": 44854.66
+        },
+        "order_date": "10-09-2019"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 353,
+            "list_price": 2009.45,
+            "revenue": 140346.82
+        },
+        "order_date": "06-04-2017"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 162,
+            "list_price": 2795.85,
+            "revenue": 92220.1
+        },
+        "order_date": "04-24-2020"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 326,
+            "list_price": 2700.56,
+            "revenue": 144919.9
+        },
+        "order_date": "11-22-2019"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 499,
+            "list_price": 4256.59,
+            "revenue": 55271.06
+        },
+        "order_date": "06-26-2022"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 199,
+            "list_price": 131.89,
+            "revenue": 93196.99
+        },
+        "order_date": "09-11-2020"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 411,
+            "list_price": 2551.11,
+            "revenue": 11658.4
+        },
+        "order_date": "06-13-2020"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 252,
+            "list_price": 2601.86,
+            "revenue": 133436.05
+        },
+        "order_date": "03-24-2020"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 120,
+            "list_price": 826.68,
+            "revenue": 2785.94
+        },
+        "order_date": "09-29-2019"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 197,
+            "list_price": 1798.44,
+            "revenue": 164715.36
+        },
+        "order_date": "07-07-2021"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 129,
+            "list_price": 639.38,
+            "revenue": 134260.39
+        },
+        "order_date": "06-13-2018"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 437,
+            "list_price": 261.4,
+            "revenue": 12832.55
+        },
+        "order_date": "11-23-2020"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 304,
+            "list_price": 285.85,
+            "revenue": 187591.04
+        },
+        "order_date": "08-07-2020"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 353,
+            "list_price": 438.89,
+            "revenue": 26089.4
+        },
+        "order_date": "10-31-2017"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 6,
+            "list_price": 2649.62,
+            "revenue": 174301.0
+        },
+        "order_date": "01-20-2019"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 164,
+            "list_price": 2206.0,
+            "revenue": 155527.17
+        },
+        "order_date": "03-25-2017"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 481,
+            "list_price": 1604.54,
+            "revenue": 86270.94
+        },
+        "order_date": "02-22-2017"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 259,
+            "list_price": 1889.96,
+            "revenue": 52308.3
+        },
+        "order_date": "03-29-2020"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 222,
+            "list_price": 2099.28,
+            "revenue": 60690.5
+        },
+        "order_date": "01-08-2018"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 159,
+            "list_price": 2136.73,
+            "revenue": 210686.92
+        },
+        "order_date": "01-23-2018"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 221,
+            "list_price": 2749.01,
+            "revenue": 58482.59
+        },
+        "order_date": "02-06-2019"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 455,
+            "list_price": 4028.14,
+            "revenue": 137943.83
+        },
+        "order_date": "04-07-2019"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 136,
+            "list_price": 868.68,
+            "revenue": 137543.11
+        },
+        "order_date": "01-19-2021"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 350,
+            "list_price": 215.79,
+            "revenue": 167450.34
+        },
+        "order_date": "01-23-2021"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 95,
+            "list_price": 2257.71,
+            "revenue": 200784.64
+        },
+        "order_date": "12-24-2018"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 446,
+            "list_price": 337.71,
+            "revenue": 47212.52
+        },
+        "order_date": "06-20-2021"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 200,
+            "list_price": 3489.52,
+            "revenue": 95837.18
+        },
+        "order_date": "02-11-2017"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 246,
+            "list_price": 2134.4,
+            "revenue": 115421.6
+        },
+        "order_date": "11-27-2021"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 242,
+            "list_price": 3421.9,
+            "revenue": 151959.16
+        },
+        "order_date": "12-29-2019"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 388,
+            "list_price": 1338.88,
+            "revenue": 45081.36
+        },
+        "order_date": "08-25-2018"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 376,
+            "list_price": 980.15,
+            "revenue": 25127.81
+        },
+        "order_date": "01-07-2018"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 7,
+            "list_price": 3360.57,
+            "revenue": 140693.36
+        },
+        "order_date": "07-06-2018"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 185,
+            "list_price": 4055.41,
+            "revenue": 199470.57
+        },
+        "order_date": "05-10-2017"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 417,
+            "list_price": 4149.98,
+            "revenue": 114032.04
+        },
+        "order_date": "09-09-2020"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 304,
+            "list_price": 2676.25,
+            "revenue": 56044.14
+        },
+        "order_date": "06-06-2020"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 405,
+            "list_price": 3901.43,
+            "revenue": 152696.98
+        },
+        "order_date": "08-07-2019"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 189,
+            "list_price": 359.7,
+            "revenue": 33220.73
+        },
+        "order_date": "06-06-2017"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 27,
+            "list_price": 4325.93,
+            "revenue": 195075.44
+        },
+        "order_date": "11-28-2021"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 194,
+            "list_price": 2885.93,
+            "revenue": 101023.92
+        },
+        "order_date": "03-26-2022"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 51,
+            "list_price": 4167.94,
+            "revenue": 103099.92
+        },
+        "order_date": "12-09-2018"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 317,
+            "list_price": 63.84,
+            "revenue": 76233.58
+        },
+        "order_date": "12-08-2020"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 223,
+            "list_price": 2962.53,
+            "revenue": 207555.44
+        },
+        "order_date": "12-14-2021"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 55,
+            "list_price": 1951.23,
+            "revenue": 4387.68
+        },
+        "order_date": "02-17-2022"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 496,
+            "list_price": 2917.68,
+            "revenue": 113412.72
+        },
+        "order_date": "02-08-2019"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 459,
+            "list_price": 3195.23,
+            "revenue": 28522.35
+        },
+        "order_date": "11-19-2017"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 264,
+            "list_price": 3581.98,
+            "revenue": 24533.77
+        },
+        "order_date": "11-30-2018"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 60,
+            "list_price": 294.48,
+            "revenue": 99745.26
+        },
+        "order_date": "08-28-2017"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 206,
+            "list_price": 4244.55,
+            "revenue": 41104.03
+        },
+        "order_date": "06-12-2021"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 382,
+            "list_price": 2115.17,
+            "revenue": 69401.27
+        },
+        "order_date": "06-16-2022"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 417,
+            "list_price": 2897.82,
+            "revenue": 80216.83
+        },
+        "order_date": "09-21-2019"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 168,
+            "list_price": 2658.51,
+            "revenue": 88186.95
+        },
+        "order_date": "11-09-2020"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 38,
+            "list_price": 1687.3,
+            "revenue": 178474.19
+        },
+        "order_date": "08-21-2021"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 421,
+            "list_price": 3378.83,
+            "revenue": 22551.15
+        },
+        "order_date": "04-28-2020"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 186,
+            "list_price": 2303.87,
+            "revenue": 56373.43
+        },
+        "order_date": "03-16-2022"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 348,
+            "list_price": 3040.21,
+            "revenue": 216457.12
+        },
+        "order_date": "07-27-2019"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 41,
+            "list_price": 2604.26,
+            "revenue": 215169.76
+        },
+        "order_date": "04-22-2018"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 50,
+            "list_price": 1099.69,
+            "revenue": 88798.22
+        },
+        "order_date": "11-11-2020"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 304,
+            "list_price": 2706.44,
+            "revenue": 217891.76
+        },
+        "order_date": "04-24-2020"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 41,
+            "list_price": 1666.38,
+            "revenue": 26796.79
+        },
+        "order_date": "05-30-2022"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 312,
+            "list_price": 1596.35,
+            "revenue": 45403.86
+        },
+        "order_date": "01-03-2021"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 145,
+            "list_price": 378.29,
+            "revenue": 120154.38
+        },
+        "order_date": "08-21-2018"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 476,
+            "list_price": 2572.31,
+            "revenue": 95717.41
+        },
+        "order_date": "11-01-2019"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 94,
+            "list_price": 4080.77,
+            "revenue": 194944.89
+        },
+        "order_date": "12-13-2017"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 321,
+            "list_price": 903.79,
+            "revenue": 211260.33
+        },
+        "order_date": "03-26-2017"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 374,
+            "list_price": 442.86,
+            "revenue": 53182.77
+        },
+        "order_date": "05-16-2017"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 170,
+            "list_price": 2349.56,
+            "revenue": 14736.68
+        },
+        "order_date": "05-31-2017"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 294,
+            "list_price": 2807.41,
+            "revenue": 432.63
+        },
+        "order_date": "06-02-2021"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 362,
+            "list_price": 3329.11,
+            "revenue": 186590.8
+        },
+        "order_date": "12-18-2021"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 274,
+            "list_price": 497.07,
+            "revenue": 170649.82
+        },
+        "order_date": "12-28-2019"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 176,
+            "list_price": 2335.52,
+            "revenue": 21882.52
+        },
+        "order_date": "10-05-2018"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 350,
+            "list_price": 653.63,
+            "revenue": 117239.38
+        },
+        "order_date": "07-05-2018"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 465,
+            "list_price": 2309.24,
+            "revenue": 75568.38
+        },
+        "order_date": "03-11-2021"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 18,
+            "list_price": 3004.45,
+            "revenue": 172538.87
+        },
+        "order_date": "03-03-2021"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 158,
+            "list_price": 2698.26,
+            "revenue": 88285.14
+        },
+        "order_date": "05-31-2022"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 117,
+            "list_price": 208.04,
+            "revenue": 16015.57
+        },
+        "order_date": "08-14-2019"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 270,
+            "list_price": 688.48,
+            "revenue": 65791.38
+        },
+        "order_date": "10-14-2021"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 114,
+            "list_price": 1567.2,
+            "revenue": 64997.06
+        },
+        "order_date": "11-23-2017"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 83,
+            "list_price": 2416.78,
+            "revenue": 60691.5
+        },
+        "order_date": "04-16-2019"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 96,
+            "list_price": 341.11,
+            "revenue": 8682.73
+        },
+        "order_date": "06-18-2021"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 467,
+            "list_price": 3528.09,
+            "revenue": 72897.7
+        },
+        "order_date": "11-12-2020"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 187,
+            "list_price": 4388.52,
+            "revenue": 73682.36
+        },
+        "order_date": "08-29-2021"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 225,
+            "list_price": 885.71,
+            "revenue": 95859.49
+        },
+        "order_date": "10-01-2021"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 488,
+            "list_price": 2653.49,
+            "revenue": 52176.97
+        },
+        "order_date": "02-19-2017"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 172,
+            "list_price": 2902.1,
+            "revenue": 76860.5
+        },
+        "order_date": "01-11-2021"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 403,
+            "list_price": 3528.04,
+            "revenue": 69292.77
+        },
+        "order_date": "12-02-2019"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 285,
+            "list_price": 2956.44,
+            "revenue": 24163.23
+        },
+        "order_date": "03-14-2022"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 229,
+            "list_price": 3849.8,
+            "revenue": 63012.26
+        },
+        "order_date": "02-11-2019"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 455,
+            "list_price": 220.05,
+            "revenue": 89093.77
+        },
+        "order_date": "02-02-2021"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 361,
+            "list_price": 3517.07,
+            "revenue": 93865.77
+        },
+        "order_date": "06-30-2022"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 53,
+            "list_price": 2462.42,
+            "revenue": 210114.46
+        },
+        "order_date": "03-01-2018"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 68,
+            "list_price": 3883.52,
+            "revenue": 49334.02
+        },
+        "order_date": "12-24-2020"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 337,
+            "list_price": 473.18,
+            "revenue": 22901.01
+        },
+        "order_date": "09-07-2018"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 437,
+            "list_price": 3541.18,
+            "revenue": 23533.93
+        },
+        "order_date": "02-18-2022"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 110,
+            "list_price": 932.75,
+            "revenue": 47116.91
+        },
+        "order_date": "05-28-2019"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 338,
+            "list_price": 3520.03,
+            "revenue": 215734.96
+        },
+        "order_date": "05-23-2022"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 133,
+            "list_price": 2545.61,
+            "revenue": 28236.93
+        },
+        "order_date": "11-20-2021"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 442,
+            "list_price": 1231.89,
+            "revenue": 62909.44
+        },
+        "order_date": "01-05-2021"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 395,
+            "list_price": 337.54,
+            "revenue": 34912.22
+        },
+        "order_date": "10-17-2017"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 395,
+            "list_price": 4484.82,
+            "revenue": 144309.6
+        },
+        "order_date": "12-14-2019"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 305,
+            "list_price": 583.29,
+            "revenue": 215449.42
+        },
+        "order_date": "09-16-2021"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 200,
+            "list_price": 4149.22,
+            "revenue": 9809.05
+        },
+        "order_date": "05-21-2022"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 152,
+            "list_price": 2428.95,
+            "revenue": 4178.18
+        },
+        "order_date": "03-18-2018"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 142,
+            "list_price": 3283.65,
+            "revenue": 115758.42
+        },
+        "order_date": "09-02-2022"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 191,
+            "list_price": 3554.72,
+            "revenue": 138986.06
+        },
+        "order_date": "05-17-2019"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 390,
+            "list_price": 823.65,
+            "revenue": 180973.56
+        },
+        "order_date": "09-25-2022"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 225,
+            "list_price": 996.4,
+            "revenue": 74778.76
+        },
+        "order_date": "07-17-2021"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 453,
+            "list_price": 1285.53,
+            "revenue": 37815.05
+        },
+        "order_date": "07-20-2020"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 306,
+            "list_price": 1414.23,
+            "revenue": 44380.5
+        },
+        "order_date": "05-06-2021"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 434,
+            "list_price": 1253.05,
+            "revenue": 8216.76
+        },
+        "order_date": "11-13-2020"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 135,
+            "list_price": 1755.87,
+            "revenue": 103622.36
+        },
+        "order_date": "06-23-2017"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 454,
+            "list_price": 4424.08,
+            "revenue": 62002.76
+        },
+        "order_date": "09-20-2017"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 403,
+            "list_price": 3707.85,
+            "revenue": 29300.51
+        },
+        "order_date": "06-02-2021"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 99,
+            "list_price": 3469.43,
+            "revenue": 92726.41
+        },
+        "order_date": "04-06-2020"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 401,
+            "list_price": 1489.25,
+            "revenue": 53952.91
+        },
+        "order_date": "08-04-2020"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 485,
+            "list_price": 4283.19,
+            "revenue": 105448.07
+        },
+        "order_date": "05-27-2019"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 207,
+            "list_price": 4436.05,
+            "revenue": 207814.82
+        },
+        "order_date": "03-04-2019"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 192,
+            "list_price": 3266.46,
+            "revenue": 184295.09
+        },
+        "order_date": "12-17-2021"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 211,
+            "list_price": 2474.18,
+            "revenue": 144159.47
+        },
+        "order_date": "07-11-2020"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 481,
+            "list_price": 3359.77,
+            "revenue": 118595.64
+        },
+        "order_date": "05-16-2019"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 370,
+            "list_price": 3899.41,
+            "revenue": 10362.95
+        },
+        "order_date": "04-17-2019"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 356,
+            "list_price": 3244.81,
+            "revenue": 181560.5
+        },
+        "order_date": "12-05-2017"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 181,
+            "list_price": 1222.4,
+            "revenue": 137081.71
+        },
+        "order_date": "06-29-2019"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 447,
+            "list_price": 1470.24,
+            "revenue": 15025.76
+        },
+        "order_date": "04-24-2020"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 303,
+            "list_price": 3413.9,
+            "revenue": 116886.2
+        },
+        "order_date": "08-18-2022"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 401,
+            "list_price": 1703.41,
+            "revenue": 130101.57
+        },
+        "order_date": "05-18-2018"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 43,
+            "list_price": 4171.93,
+            "revenue": 167681.36
+        },
+        "order_date": "08-26-2019"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 472,
+            "list_price": 2091.55,
+            "revenue": 3924.11
+        },
+        "order_date": "10-27-2017"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 78,
+            "list_price": 4411.08,
+            "revenue": 214882.02
+        },
+        "order_date": "10-03-2021"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 302,
+            "list_price": 1123.53,
+            "revenue": 91991.95
+        },
+        "order_date": "08-29-2017"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 314,
+            "list_price": 2960.48,
+            "revenue": 67504.19
+        },
+        "order_date": "09-03-2020"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 414,
+            "list_price": 1570.46,
+            "revenue": 178326.36
+        },
+        "order_date": "01-25-2021"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 307,
+            "list_price": 3077.07,
+            "revenue": 111547.79
+        },
+        "order_date": "11-30-2018"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 168,
+            "list_price": 1260.42,
+            "revenue": 155026.15
+        },
+        "order_date": "11-16-2019"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 338,
+            "list_price": 722.51,
+            "revenue": 21909.82
+        },
+        "order_date": "12-10-2021"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 92,
+            "list_price": 801.68,
+            "revenue": 165824.5
+        },
+        "order_date": "08-17-2017"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 57,
+            "list_price": 1089.07,
+            "revenue": 95871.87
+        },
+        "order_date": "01-01-2019"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 31,
+            "list_price": 2402.06,
+            "revenue": 37518.49
+        },
+        "order_date": "04-20-2022"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 492,
+            "list_price": 2901.47,
+            "revenue": 76451.77
+        },
+        "order_date": "07-12-2022"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 282,
+            "list_price": 198.74,
+            "revenue": 154562.16
+        },
+        "order_date": "02-03-2022"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 361,
+            "list_price": 3835.74,
+            "revenue": 39154.43
+        },
+        "order_date": "02-06-2019"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 193,
+            "list_price": 4052.41,
+            "revenue": 1902.44
+        },
+        "order_date": "11-09-2021"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 228,
+            "list_price": 2865.43,
+            "revenue": 126696.1
+        },
+        "order_date": "07-19-2018"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 441,
+            "list_price": 3287.69,
+            "revenue": 36374.45
+        },
+        "order_date": "11-20-2017"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 182,
+            "list_price": 137.65,
+            "revenue": 60596.84
+        },
+        "order_date": "12-29-2021"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 433,
+            "list_price": 4059.78,
+            "revenue": 160132.2
+        },
+        "order_date": "12-19-2020"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 292,
+            "list_price": 2335.86,
+            "revenue": 178126.85
+        },
+        "order_date": "04-28-2017"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 382,
+            "list_price": 1697.18,
+            "revenue": 25230.74
+        },
+        "order_date": "01-10-2020"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 478,
+            "list_price": 117.65,
+            "revenue": 113887.59
+        },
+        "order_date": "05-09-2019"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 413,
+            "list_price": 3080.39,
+            "revenue": 148119.41
+        },
+        "order_date": "04-17-2022"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 210,
+            "list_price": 4087.75,
+            "revenue": 76240.07
+        },
+        "order_date": "07-25-2017"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 278,
+            "list_price": 1625.08,
+            "revenue": 199179.14
+        },
+        "order_date": "08-12-2020"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 481,
+            "list_price": 4060.12,
+            "revenue": 177796.16
+        },
+        "order_date": "11-18-2019"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 68,
+            "list_price": 2036.41,
+            "revenue": 112418.94
+        },
+        "order_date": "06-24-2021"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 290,
+            "list_price": 378.42,
+            "revenue": 218357.99
+        },
+        "order_date": "12-21-2017"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 131,
+            "list_price": 3671.23,
+            "revenue": 183155.78
+        },
+        "order_date": "05-16-2022"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 299,
+            "list_price": 1709.06,
+            "revenue": 215953.34
+        },
+        "order_date": "09-04-2017"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 379,
+            "list_price": 3200.25,
+            "revenue": 37121.41
+        },
+        "order_date": "06-24-2018"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 54,
+            "list_price": 42.69,
+            "revenue": 158303.67
+        },
+        "order_date": "02-20-2018"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 26,
+            "list_price": 2139.18,
+            "revenue": 99764.29
+        },
+        "order_date": "03-21-2022"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 64,
+            "list_price": 2376.07,
+            "revenue": 162416.3
+        },
+        "order_date": "12-13-2018"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 474,
+            "list_price": 2700.23,
+            "revenue": 169858.17
+        },
+        "order_date": "08-09-2017"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 290,
+            "list_price": 3687.75,
+            "revenue": 19759.16
+        },
+        "order_date": "11-14-2021"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 7
+        },
+        "orders": {
+            "quantity": 126,
+            "list_price": 2936.75,
+            "revenue": 181760.01
+        },
+        "order_date": "02-28-2017"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 9
+        },
+        "orders": {
+            "quantity": 375,
+            "list_price": 658.7,
+            "revenue": 161197.04
+        },
+        "order_date": "01-22-2021"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 407,
+            "list_price": 2735.43,
+            "revenue": 218020.37
+        },
+        "order_date": "02-18-2020"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 418,
+            "list_price": 1319.54,
+            "revenue": 83824.05
+        },
+        "order_date": "05-03-2019"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 235,
+            "list_price": 653.59,
+            "revenue": 39513.51
+        },
+        "order_date": "05-29-2022"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 303,
+            "list_price": 848.81,
+            "revenue": 10170.7
+        },
+        "order_date": "12-03-2019"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 209,
+            "list_price": 1375.52,
+            "revenue": 29404.96
+        },
+        "order_date": "03-05-2018"
+    },
+    {
+        "products": {
+            "product_id": 10
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 288,
+            "list_price": 400.0,
+            "revenue": 140162.08
+        },
+        "order_date": "09-24-2018"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 500,
+            "list_price": 3543.0,
+            "revenue": 129980.56
+        },
+        "order_date": "02-09-2019"
+    },
+    {
+        "products": {
+            "product_id": 2
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 461,
+            "list_price": 2051.7,
+            "revenue": 47678.04
+        },
+        "order_date": "03-29-2018"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 3
+        },
+        "orders": {
+            "quantity": 61,
+            "list_price": 3728.83,
+            "revenue": 14053.18
+        },
+        "order_date": "01-09-2021"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 191,
+            "list_price": 2340.75,
+            "revenue": 93378.21
+        },
+        "order_date": "10-17-2021"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 357,
+            "list_price": 1848.48,
+            "revenue": 135910.42
+        },
+        "order_date": "03-24-2017"
+    },
+    {
+        "products": {
+            "product_id": 1
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 285,
+            "list_price": 3585.21,
+            "revenue": 210348.77
+        },
+        "order_date": "01-18-2018"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 227,
+            "list_price": 552.55,
+            "revenue": 191387.06
+        },
+        "order_date": "01-22-2022"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 324,
+            "list_price": 3044.7,
+            "revenue": 67490.5
+        },
+        "order_date": "11-06-2017"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 302,
+            "list_price": 867.81,
+            "revenue": 181329.22
+        },
+        "order_date": "02-23-2017"
+    },
+    {
+        "products": {
+            "product_id": 5
+        },
+        "customers": {
+            "customer_id": 10
+        },
+        "orders": {
+            "quantity": 39,
+            "list_price": 1612.6,
+            "revenue": 45750.51
+        },
+        "order_date": "06-09-2022"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 2
+        },
+        "orders": {
+            "quantity": 375,
+            "list_price": 3819.01,
+            "revenue": 176929.56
+        },
+        "order_date": "10-02-2017"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 194,
+            "list_price": 4403.45,
+            "revenue": 129583.55
+        },
+        "order_date": "01-05-2018"
+    },
+    {
+        "products": {
+            "product_id": 6
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 14,
+            "list_price": 1053.62,
+            "revenue": 88346.91
+        },
+        "order_date": "08-15-2019"
+    },
+    {
+        "products": {
+            "product_id": 7
+        },
+        "customers": {
+            "customer_id": 6
+        },
+        "orders": {
+            "quantity": 108,
+            "list_price": 2153.61,
+            "revenue": 32630.23
+        },
+        "order_date": "08-20-2020"
+    },
+    {
+        "products": {
+            "product_id": 8
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 80,
+            "list_price": 1395.33,
+            "revenue": 46102.98
+        },
+        "order_date": "05-04-2017"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 8
+        },
+        "orders": {
+            "quantity": 445,
+            "list_price": 3490.25,
+            "revenue": 141479.21
+        },
+        "order_date": "10-14-2020"
+    },
+    {
+        "products": {
+            "product_id": 9
+        },
+        "customers": {
+            "customer_id": 1
+        },
+        "orders": {
+            "quantity": 72,
+            "list_price": 2219.89,
+            "revenue": 208479.65
+        },
+        "order_date": "09-25-2021"
+    },
+    {
+        "products": {
+            "product_id": 4
+        },
+        "customers": {
+            "customer_id": 4
+        },
+        "orders": {
+            "quantity": 96,
+            "list_price": 3021.74,
+            "revenue": 185043.22
+        },
+        "order_date": "05-18-2018"
+    },
+    {
+        "products": {
+            "product_id": 3
+        },
+        "customers": {
+            "customer_id": 5
+        },
+        "orders": {
+            "quantity": 221,
+            "list_price": 1195.16,
+            "revenue": 204366.73
+        },
+        "order_date": "10-13-2021"
+    }
+]}

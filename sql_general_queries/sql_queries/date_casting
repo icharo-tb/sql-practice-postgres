@@ -1,0 +1,1 @@
+SELECT *, TO_DATE(order_date, 'MM-DD-YYYY') as order_date_real FROM orders;

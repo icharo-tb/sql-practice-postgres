@@ -1,0 +1,5 @@
+# .ENV variables
+.env
+
+# Test cases
+tests/
